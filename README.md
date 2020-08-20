@@ -7,21 +7,22 @@
 <p align="center">
   <img src=".github/tela_1.png">
 </p>
-<h3>Sobre o projeto</h3>
+
+## :bulb:	Sobre o projeto
 <p>Projeto feito na segunda Edição da Next Level Week, idealizada pela Rocketseat que consiste na criação de uma plataforma de estudos online, onde o usuários terá as opçoes de "Assistir" as aulas de professores cadastrados ou se "Inscrever" para poder dar as aulas.</p>
 
-### Principais tecnologias utilizadas
+## :heavy_check_mark: Principais tecnologias utilizadas
 
 * HTML5, CSS3 e JavaScript
 * [NodeJS](https://nodejs.org/en/)
 * [SQLite](https://www.sqlite.org/index.html)
 * [Nunjcuks](https://mozilla.github.io/nunjucks/)
-
-### Layout
+ 
+## :art: Layout
 
 * [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 
-###  Como rodar o projeto:
+## :zap: Como rodar o projeto:
 
 Execute o comando
 ```sh
